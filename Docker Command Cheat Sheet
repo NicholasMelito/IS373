@@ -42,7 +42,7 @@ Docker Command Cheat Sheet:
         * sets environmental variables
 
 * $ docker run -d -p <port_on_host> <port_on_container> container_name
-            * Allows the user to run a container from a separate host
+        * Allows the user to run a container from a separate host
 
 * docker login
         * Used to authenticate your access to Docker Hub
