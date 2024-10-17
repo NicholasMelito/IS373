@@ -1,3 +1,6 @@
+---
+WebsiteDraft
+---
 HOME PAGE:
 * A menu where users can browse the latest articles
   - Clicking the link redirects to the specific ARTICLE PAGE
