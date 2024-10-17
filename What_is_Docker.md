@@ -1,3 +1,6 @@
+---
+What is Docker
+---
 **Docker** is a platform that enables developers to automate the deployment, scaling, and management of applications in containers. It allows you to package an application and its dependencies into a single container, ensuring consistent performance across different environments.
 
 ### Key Features of Docker
