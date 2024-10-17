@@ -1,3 +1,6 @@
+---
+What is a Kernel
+---
 Simply put, a Kernel is a computer program that acts as the core of an operating system, bridges the gap between the OS and the computer's hardware.  
 
 It is responsible for the tasks, including optimizing resources, Handling Requests, Preventing conflicts,Enable Multitasking and Assign Memory.
