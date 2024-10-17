@@ -1,3 +1,6 @@
+---
+What is Kubernetes
+---
 **Kubernetes** (often abbreviated as K8s) is an open-source container orchestration platform designed to automate the deployment, scaling, and management of containerized applications. It provides a framework to run distributed systems resiliently, offering features like load balancing, self-healing, scaling, and rolling updates.
 
 ### Key Features of Kubernetes
