@@ -1,3 +1,6 @@
+---
+Difference_Between_Kuber&Docker
+---
 Kubernetes and Docker are often mentioned together in the context of containerized applications, but they serve different purposes and address different aspects of containerization.
 
 ![Kubernetes VS Docker](https://www.bretfisher.com/content/images/size/w600/2022/02/kubernetes-vs-docker-1-1.png)
