@@ -1,3 +1,7 @@
+---
+DIfference_Containerization&Virtualization
+---
+
 Containerization and virtualization are both techniques used to create isolated environments for applications, but they differ in how they operate and what they provide.
 
 Virtualization
